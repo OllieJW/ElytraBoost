@@ -1,0 +1,19 @@
+# --- Elytra Boost ---
+# SPIGOT: https://www.spigotmc.org/resources/elytraboost.91918/
+# DISCORD: https://discord.gg/tFhTcQ6yMn
+
+# Message configuration
+Perm: "elytraboost.use"
+NoPerms: "&c&l[!] &cYou do not have permission to do this!"
+RequireElytra: true
+NoElytra: "&c&l[!] &cYou need to wear an elytra for this"
+NeedToLand: true
+LandMessage: "&c&l[!] &cYou must land before doing this"
+DoLaunchMsg: true
+LaunchMsg: "&a&lLIFT OFF!"
+
+# Other settings
+LaunchSound: "ENTITY_GENERIC_EXPLODE"
+LaunchEffect: "EXPLOSION_LARGE"
+# 2 is ~20 blocks. This is mostly trial and error.
+LaunchForce: 2

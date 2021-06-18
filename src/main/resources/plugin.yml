@@ -1,0 +1,10 @@
+name: ElytaBoost
+version: ${project.version}
+main: ElytraBoost
+api-version: 1.16
+authors: [ OllieJW ]
+description: A quick plugin to make you boost in the air
+commands:
+  launch:
+    description: Launch into the air
+    usage: /<command>
